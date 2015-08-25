@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/libs/AMap_Services_V2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e84628aa8eea7b9892768f19c41dbe02abc7f666">
+        <dex dex="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/build/intermediates/pre-dexed/debug/AMap_Services_V2.5.0-83294b5cfbd250feec80d376d0062c25f6e84a43.jar" />
+    </item>
+    <item
+        jar="/Users/sirius/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ea78961b5e52c7a24ef2af2d3ba82e3ea1054c39.jar" />
+    </item>
+    <item
+        jar="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/libs/Android_2DMapApi_V2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c111d9a441220cc379a91401de8888087e70fafc">
+        <dex dex="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/build/intermediates/pre-dexed/debug/Android_2DMapApi_V2.5.0-2a7316df672fb90a1d5364379689710c44e83d95.jar" />
+    </item>
+    <item
+        jar="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/libs/Android_Location_V1.3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="71e7604372d8a66689ff8df047e9a748e19a5169">
+        <dex dex="/Users/sirius/AndroidstudioProjects/AMap2DDemo/app/build/intermediates/pre-dexed/debug/Android_Location_V1.3.3-d1875da871addba5abc3637251bea18673cd27ae.jar" />
+    </item>
+
+</items>
